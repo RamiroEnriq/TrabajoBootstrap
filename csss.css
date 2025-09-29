@@ -1,0 +1,76 @@
+h1 {
+color: black;
+text-align:center;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color:rgb(30, 88, 143);
+}     
+
+header{
+
+background-color:rgb(30, 88, 143);
+
+}
+
+footer{
+
+background-color:gainsboro;
+
+}
+
+nav{
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h2{
+
+text-align: center;
+
+}
+body{
+
+background-color:cornsilk;
+ scroll-behavior: smooth; 
+}
+
+hr{
+
+height: 5px; 
+background-color: rgb(0, 0, 0);    
+}
+
+h6{
+
+color: rgb(0, 0, 0);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.definicion-ia {
+  background: #f8f9fa;   
+  padding: 60px 0;
+  border-top: 1px solid #e0e0e0;
+}
+
+.definicion-ia .titulo-ia {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #2c3e50;           
+  margin-bottom: 25px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.definicion-ia .texto-ia {
+  max-width: 850px;
+  margin: 0 auto;
+  font-size: 1.15rem;
+  line-height: 1.8;
+  color: #4a4a4a;
+}
+
+.definicion-ia strong {
+  color: #43628b;           
+}
+
